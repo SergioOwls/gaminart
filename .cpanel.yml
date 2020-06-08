@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/gaminart/repositories/main
+    - export DEPLOYPATH=/home/gaminart/main
     - index.html $DEPLOYPATH
